@@ -1,0 +1,1 @@
+<h2>Bem-vindo ao tutorial [Spring MVC + Hibernate + Tiles + jQuery]</h2>

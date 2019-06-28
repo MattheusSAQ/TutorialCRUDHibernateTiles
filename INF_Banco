@@ -1,0 +1,10 @@
+*** Modificar as credenciais para conexão com o banco, e o nome do mesmo
+   no arquivo spring-servlet.xml ***
+
+CREATE TABLE Funcionario
+(
+   matricula int PRIMARY KEY NOT NULL AUTO_INCREMENT,
+   nome varchar(100) NOT NULL,
+   salario double(8,2) NOT NULL
+)
+;
